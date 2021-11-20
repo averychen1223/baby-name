@@ -1,6 +1,6 @@
 # Baby Name Project
 
-The project ais to process and visualize the frequency of baby names in the United States from 1900 to 2010 using Python.
+The project aims to process and visualize the frequency of baby names in the United States from 1900 to 2010 using Python.
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/averychen1223/baby-name/blob/main/baby_name.gif"/><br/>
